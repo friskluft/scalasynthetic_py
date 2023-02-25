@@ -8,8 +8,8 @@ work_dir = "C:\\WORK\\AXLE\\paper2022\\scalability-samee\\SYNTHETIC2" # Samee-->
 nyxus_executable = "/is/not/used"	# Samee--> "/home/samee/axle/dev/nyxus_paper/nyxus/build_man/nyxus"
 feature_list = "/is/not/used"	# samee--> "*ALL*"
 generate_missing_image = False
-base_mask_image_path = "C:\\WORK\\AXLE\\paper2022\\scalability-samee\\SYNTHETIC2\\arnoldcat_pure_cat.jpg" # Samee-->  "/home/samee/axle/dev/nyxus_paper/nyxus_benchmark/arnoldcat_pure_cat.jpg"
-base_intensity_image_path = "C:\\WORK\\AXLE\\paper2022\\scalability-samee\\SYNTHETIC2\\siemens_star.tif" # Samee--> "/home/samee/axle/dev/nyxus_paper/nyxus_benchmark/Siemens_star.tif"
+base_mask_image_path = "mask_arnoldcat_cat.jpg" # "C:\\WORK\\AXLE\\paper2022\\scalability-samee\\SYNTHETIC2\\arnoldcat_pure_cat.jpg" # Samee-->  "/home/samee/axle/dev/nyxus_paper/nyxus_benchmark/arnoldcat_pure_cat.jpg"
+base_intensity_image_path = "intensity_siemens_star.tif" # "C:\\WORK\\AXLE\\paper2022\\scalability-samee\\SYNTHETIC2\\siemens_star.tif" # Samee--> "/home/samee/axle/dev/nyxus_paper/nyxus_benchmark/Siemens_star.tif"
 
 # configuration #2 (EC2)
 '''
